@@ -1,0 +1,526 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+nav{
+    background-color: #202020;
+    color: white;
+    font-weight: 600;
+    height: 50px;
+}
+
+.navbar1 img{
+width: 130px;
+height: 52px;
+margin-left: 420px;
+}
+
+.navbar1 .sign{
+text-decoration: none;
+color: white;
+margin-left: 350px;
+font-size: 13px;
+}
+
+.navbar1 .uicon{
+width: 22px;
+height: 25px;
+margin-left: 330px;
+}
+
+.navbar1 .unlimited{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.subscribe{
+    float: right;
+    position: relative;
+    right: 420px;
+    top: 10px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.navbar2{
+    outline: 2px solid #393939;
+    outline-offset: -3px;
+}
+
+.navbar2 ul {
+    list-style: none;
+    display: flex;
+    margin-left: 290px;
+}
+
+.navbar2 ul li a{
+    position: relative;
+    top: 10px;
+    margin-left: 25px;
+    font-size: 13px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar3{
+    height: 35px;
+    background-color: #151515;
+    font-weight: 400;
+}
+.navbar3 a{
+    text-decoration: none;
+    color: white;
+    margin-left: 750px;
+    position: relative;
+    top: 4px;
+}
+
+.navbar3 img{
+    height: 30px;
+}
+
+.loki2{
+    background-color: #151515;
+    height: 560px;
+    width: 100%;
+    position: relative;
+    margin-top: 300px;
+}
+
+.left{
+    color: white;
+    padding: 150px 330px;
+    font-size: 18px;
+}
+
+.left button{
+    border: 2px solid white;
+    color: white;
+    background-color: transparent;
+    width: 160px;
+    height: 48px;
+    font-weight: 800;
+    cursor: pointer;
+}
+.left button:hover{
+    border: 2px solid rgb(94, 89, 89);
+}
+
+.right{
+    float: right;
+    position: relative;
+    bottom: 485px;
+}
+
+.cardsloki{
+    width: 1179px;
+    height: 317px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    position: relative;
+    bottom: 560px;
+    margin-left: 310px;
+    padding: 20px 20px;
+}
+
+.card1 img{
+width: 270px;
+height: 152px;
+cursor: pointer;
+}
+
+.lokii{
+    font-weight: 900;
+    color: gray;    
+}
+.card-text{
+    font-weight: 900;
+    width: 269px;
+}
+
+.card-text:hover{
+    color: red;
+}
+
+
+
+/*SPIDERMAN*/
+
+.spiderman{
+    background-color: #151515;
+    height: 560px;
+    width: 100%;
+}
+
+.left2{
+    color: white;
+    padding: 150px 330px;
+    font-size: 18px;
+}
+
+.left2 button{
+    border: 2px solid white;
+    color: white;
+    background-color: transparent;
+    width: 160px;
+    height: 48px;
+    font-weight: 800;
+    cursor: pointer;
+}
+.left2 button:hover{
+    border: 2px solid rgb(94, 89, 89);
+}
+
+.right2{
+    float: right;
+    position: relative;
+    bottom: 491px;
+    width: 835px;
+}
+
+.cardsspidy{
+    width: 1179px;
+    height: 317px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    position: relative;
+    bottom: 550px;
+    margin-left: 300px;
+    padding: 20px 20px;
+}
+
+.card2 img{
+    width: 270px;
+    height: 152px;
+    cursor: pointer;
+    }
+    
+    .spoody{
+        font-weight: 900;
+        color: gray;    
+    }
+
+    .comix{
+        position: relative;
+        background-color: #151515;
+        height: 560px;
+        width: 100%;
+        margin-top: 300px;
+    }
+
+    .left3{
+        position: relative;
+        left: 300px;
+        color: white;
+        padding: 100px 30px;
+        font-size: 18px;
+        width: 600px;
+    }
+
+    .left3 h1{
+        font-size: 33px;
+    }
+    
+    .left3 button{
+        border: 2px solid white;
+        color: white;
+        background-color: transparent;
+        width: 230px;
+        height: 48px;
+        font-weight: 600;
+        cursor: pointer;
+        font-size: 15px;
+    }
+    .left3 button:hover{
+        border: 2px solid rgb(94, 89, 89);
+    }
+    
+    .right3{
+        float: right;
+        position: relative;
+        bottom: 478px;
+        width: 820px;
+    }
+    
+    .cardscomix{
+        width: 1079px;
+        height: 317px;
+        background-color: rgb(255, 255, 255);
+        display: flex;
+        position: relative;
+        bottom: 580px;
+        margin-left: 300px;
+        padding: 20px 20px;
+    }
+
+    .card3:hover{
+        transform: scale(1.1);
+        transition: all ease 1s;
+    }
+    
+.card3{
+    margin-right: -110px;
+}
+
+    .card3 img{
+        width: 173px;
+        height: 259px;
+        cursor: pointer;
+        }
+        
+    .comix-p{
+       font-weight: 700;
+       color: gray; 
+       font-size: 12px;   
+        }
+
+        .comix .card-text{
+            font-size: 12px;
+        }
+        
+    .d-block{
+    height: 500px;
+}
+
+
+.carsd .card{
+    width: 1040px;
+    height: 277px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+.carsd img{
+    width: 420px;
+    height: 280px
+}
+
+.carsd h1{
+    margin: 1px 300px;
+    position: relative;
+    top: 400px;
+}
+
+.carsd button{
+    width: 200px;
+    height: 48px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 17px;
+    margin:40px 600px;
+}
+
+.youtube{
+    margin: 30px 300px;
+}
+.youtube h5{
+    font-weight: 700;
+    color: gray; 
+    font-size: 14px; 
+}
+.youtube p{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.last{
+    position: relative;
+    background-color: #151515;
+    height: 560px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.left4{
+    position: relative;
+    left: 300px;
+    color: white;
+    padding: 150px 30px;
+    font-size: 18px;
+    width: 600px;
+}
+
+.left4 h1{
+    font-size: 33px;
+}
+
+.left4 button{
+    border: 2px solid white;
+    color: white;
+    background-color: transparent;
+    width: 230px;
+    height: 48px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 15px;
+}
+.left4 button:hover{
+    border: 2px solid rgb(94, 89, 89);
+}
+
+.right4{
+    float: right;
+    position: relative;
+    bottom: 482px;
+    width: 820px;
+    margin-right: 25px;
+}
+
+.cardslast{
+    width: 1279px;
+    height: 317px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    position: relative;
+    bottom: 550px;
+    margin-left: 300px;
+    padding: 20px 90px;
+}
+
+.card4:hover{
+    transform: scale(1.1);
+    transition: all ease 1s;
+}
+
+.card4{
+margin-right: -110px;
+}
+
+.card4 img{
+    width: 173px;
+    height: 259px;
+    cursor: pointer;
+    }
+    
+.last-p{
+   font-weight: 700;
+   color: gray; 
+   font-size: 12px;   
+    }
+
+    .last .card-text{
+        font-size: 12px;
+    }
+    
+.futer{
+    background-color: black;
+    margin-top: 400px;
+    color: white;
+}
+
+.fut1{
+    margin-left: 350px;
+}
+
+.fut2{
+float: right;
+position: relative;
+bottom: 250px;
+margin-right: 400px;
+text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+.fut2 button{
+    background-color: red;
+    border: none;
+    color: white;
+    width: 140px;
+    height: 50px;
+}
+.licence{
+    font-size: 11px;
+    margin-top: 40px;
+}
+
+footer{
+    width: 1903px;
+    height: 370px;
+    background-color: #151515;
+    color: white;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    padding: 80px 0px;
+    position: relative;
+    left: 400px;
+}
+
+.bolds{
+    font-weight: 700;
+    width: 300px;
+}
+
+.logos{
+margin-left: 100px;
+width: 100px;
+}
+.logo1{
+    position: relative;
+    top: 7px;
+}
+.logo2{
+    position: relative;
+    top: 19px;
+}
+
+footer li {
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+
+.social{
+margin-left: 100px;
+}
+
+i{
+    color: #393939;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+i:hover{
+    color: white;
+    transition: all ease 0.5s;
+}
+
+.grey{
+    color: grey;
+}
+.mimg{
+    height: 115px;
+    width: 80px;
+}
+
+.end {
+    display: flex;
+    margin-left: 580px;
+}
+
+.end a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: grey;
+}
+
+.end a:hover{
+    color: white;
+}
+
+.carousel{
+    height: 500px;
+}
+
+.swiper-slide img{
+    width: 100%;
+    height: 500px;
+}
